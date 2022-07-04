@@ -9,9 +9,12 @@ This is an API Automation Karate Maven Framework. Tests are written on Gherkin l
      - Maven
      - Junit5
 
-2. Folder structure src/test/resources/features: Contains features for API testing.
+2. Once downloaded, run:
+```bash
+mvn clean install
+``` 
 
-3. Once downloaded, run mvn clean install
+3. Folder structure src/test/resources/features: Contains features for API testing.
 
 4. To run all tests, use command 
 ```shell script

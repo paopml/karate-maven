@@ -1,4 +1,4 @@
-//Location of configs (ex: URL path), environment, timeouts
+//Location of configs (ex: URL path, token), environment, timeouts
 function fn() {
 
 var config = {

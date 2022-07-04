@@ -16,7 +16,9 @@ mvn clean install
 
 3. Folder structure src/test/resources/features: Contains features for API testing.
 
+
 4. To run all tests, use command
+
 ```shell script
 mvn test -Dtest=TestRunner#executeTest
 ``` 

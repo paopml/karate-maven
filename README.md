@@ -3,7 +3,7 @@ This is an API Automation Karate Maven Framework. Tests are written on Gherkin l
 
 # Getting Started
 1. User needs to have following software installed:
-     - Intellij
+     - Intellij / Eclipse
      - Java JDK 16
      - Cucumber for java plugin
      - Maven

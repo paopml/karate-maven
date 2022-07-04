@@ -5,6 +5,7 @@ This is an API Automation Karate Maven Framework. Tests are written on Gherkin l
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1. User needs to have following software installed:
      - Intellij
+     - Java JDK 16
      - Cucumber for java plugin
      - Maven
      - Junit5
